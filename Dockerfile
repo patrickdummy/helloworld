@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN echo 'we are running some # of cool things'
+RUN echo 'we are running some #s of cool things'
